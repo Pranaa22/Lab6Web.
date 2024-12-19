@@ -1,4 +1,5 @@
-# Lab6Web.
+# Lab6Web_css_framework
+Tugas Pertemuan 7 Pemrograman Web 1 <br>
 
 [Project Link](https://pranaa22.github.io/Lab6Web./)
 
